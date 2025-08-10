@@ -29,16 +29,6 @@ Scatter plot analyzing how satisfaction scores relate to employee performance ra
 
 ---
 
-## 📁 Files Included
-
-| File Name | Description |
-|-----------|-------------|
-| `HR_Resource_Analytics.pbix` | Power BI dashboard file |
-| `README.md` | Project documentation |
-| *(Optional)* `Dashboard_Snapshot.png` | Preview image of the report |
-
----
-
 ## 🛠️ Tools Used
 
 - **Power BI Desktop** for data modeling & visualization
